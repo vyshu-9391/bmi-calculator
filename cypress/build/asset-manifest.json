@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/vyshnavi/static/css/main.161a37c0.chunk.css",
+    "main.js": "/vyshnavi/static/js/main.b9e42a3e.chunk.js",
+    "main.js.map": "/vyshnavi/static/js/main.b9e42a3e.chunk.js.map",
+    "runtime~main.js": "/vyshnavi/static/js/runtime~main.70bae06a.js",
+    "runtime~main.js.map": "/vyshnavi/static/js/runtime~main.70bae06a.js.map",
+    "static/css/2.0733074b.chunk.css": "/vyshnavi/static/css/2.0733074b.chunk.css",
+    "static/js/2.61df5e59.chunk.js": "/vyshnavi/static/js/2.61df5e59.chunk.js",
+    "static/js/2.61df5e59.chunk.js.map": "/vyshnavi/static/js/2.61df5e59.chunk.js.map",
+    "index.html": "/vyshnavi/index.html",
+    "precache-manifest.aa64cfb7c9eecfe0ece284084d097af9.js": "/vyshnavi/precache-manifest.aa64cfb7c9eecfe0ece284084d097af9.js",
+    "service-worker.js": "/vyshnavi/service-worker.js",
+    "static/css/2.0733074b.chunk.css.map": "/vyshnavi/static/css/2.0733074b.chunk.css.map",
+    "static/css/main.161a37c0.chunk.css.map": "/vyshnavi/static/css/main.161a37c0.chunk.css.map"
+  }
+}
