@@ -5,8 +5,8 @@
   "homepage": "http://GermaVinsmoke.github.io/vyshnavi/vyshnavi1",
   "dependencies": {
     "@types/jest": "24.0.20",
-    "babel-jest": "^24.8.0",
-    "chart.js": "2.9.1",
+    
+   "chart.js": "2.9.1",
     "materialize-css": "1.0.0",
     "prop-types": "15.7.2",
     "react": "16.11.0",
@@ -16,8 +16,8 @@
     "uuid": "3.3.3"
   },
   "scripts": {
-    "start": "react-scripts --openssl-legacy-provider start",
-    "build": "react-scripts --openssl-legacy-provider build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
